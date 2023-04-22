@@ -1,0 +1,28 @@
+.one{
+     background: rgba(252, 175, 2, 1);
+    ;
+}
+.two{
+    color:aliceblue
+}
+.three{
+    color: rgba(255, 255, 255, 1);
+
+}
+.four{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+}
+.five{
+    background: rgba(252, 175, 2, 1);
+    border-radius: 1px ;
+}
+.six{
+    border: 1px;
+  color: rgba(252, 175, 2, 1);
+    }
+.seven{
+ color:  rgba(252, 175, 2, 1);
+ border-color: rgba(252, 175, 2, 1); 
+ ;
+}
